@@ -1,4 +1,4 @@
-合约结构设计
+#合约结构设计
 ResumeNft is ERC721, AccessControl（控制合约权限）
 ResumeNft合约记录人才信息和企业信息，并生成相关接口，用于人才和企业的注册和信息修改
 tokenId 使用钱包地址
